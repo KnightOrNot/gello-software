@@ -5,6 +5,7 @@
 > [!WARNING]
 > `read` 只读取 GELLO，但 `follow`、`follow-record`、`movejs` 以及部分官方工作流会向真实机械臂发送命令。运行前必须固定设备、清空工作空间并确保急停按钮触手可及。
 
+
 ## （1）项目能力
 
 - 通过 FTDI/Dynamixel Protocol 2.0 读取 GELLO J1～J6 与夹爪位置
